@@ -1,0 +1,6 @@
+C:\Users\Kratos\Desktop\C#Projects\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.exe.config
+C:\Users\Kratos\Desktop\C#Projects\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.exe
+C:\Users\Kratos\Desktop\C#Projects\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.pdb
+C:\Users\Kratos\Desktop\C#Projects\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.csprojResolveAssemblyReference.cache
+C:\Users\Kratos\Desktop\C#Projects\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.exe
+C:\Users\Kratos\Desktop\C#Projects\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.pdb
